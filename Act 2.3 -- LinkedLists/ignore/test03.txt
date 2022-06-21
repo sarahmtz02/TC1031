@@ -1,0 +1,7 @@
+fecha 1: Oct 20 23:45:19
+fecha 2: Oct 21 00:29:14
+
+Resultado: 3 Registros
+Oct 20 23:45:19 31.197.29.145:2896 Failed password for illegal user guest
+Oct 21 00:20:41 211.179.220.223:7881 Failed password for illegal user guest
+Oct 21 00:29:14 208.57.27.44:1137 Failed password for illegal user root
